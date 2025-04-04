@@ -1,0 +1,1 @@
+This is the first starter code repo for Coding & Cocktails Intro to JavaScript/ES 6 session.
