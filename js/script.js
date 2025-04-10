@@ -9,4 +9,4 @@ const <noun_3> = <noun_1> * 2 > <noun_2>;
 document.getElementById("math").innerHTML = <noun_3>;
 
 // Practice types and equality
-document.getElementById("type").innerHTML = typeof(<noun_1>);
+document.getElementById("type").innerHTML = typeof <noun_1>;
