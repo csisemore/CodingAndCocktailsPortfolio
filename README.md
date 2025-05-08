@@ -1,1 +1,1 @@
-This is the first starter code repo for Coding & Cocktails Intro to JavaScript/ES 6 session.
+This is the starter code repo for Coding & Cocktails Portfolios session.
