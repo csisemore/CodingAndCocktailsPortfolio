@@ -1,1 +1,1 @@
-This is the starter code repo for Coding & Cocktails Portfolios session 20250510
+Camilla Coding & Cocktails Portfolio session 20250510
