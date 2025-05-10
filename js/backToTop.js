@@ -1,6 +1,7 @@
 
 // This function toggles the visibility of the back-to-top button based on scroll position
 const scrollFunction = () => {
+    console.log("scroll")
 const backToTopButton = document.querySelector(".back-to-top-btn");
 
 // Get the current vertical scroll position
